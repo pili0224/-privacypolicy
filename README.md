@@ -49,7 +49,7 @@ Data may be transferred outside your country, including outside the EEA, in comp
 
 8. Security
 
-We implement appropriate technical and organizational measures to protect your data, but no system is 100% secure.
+We take reasonable and appropriate technical and organizational measures to safeguard your personal data. However, please note that no method of transmission over the Internet or method of electronic storage is completely secure
 
 9. Your Rights
 
