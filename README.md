@@ -13,6 +13,7 @@ We may collect the following types of information:
 - Log and usage data (app usage, game progress, features accessed, session times)
 - Purchase data (virtual and real currency purchases and virtual item acquisition)
 - Ad interaction data via Google AdMob and Unity Ads
+
 If you use third-party services such as Google Play Games or Apple Game Center to log in, we may collect related profile and gameplay information under their authorization protocols.
 
 3. How We Use Your Information
