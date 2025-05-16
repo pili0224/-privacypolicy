@@ -24,6 +24,7 @@ Your data may be used to:
 - Improve gameplay and personalize content
 - Deliver personalized advertisements (with consent)
 - Ensure security and debug issues
+
 The legal basis for processing your data may include performance of a contract, legal obligations, your consent, or legitimate interest, depending on your region (e.g., GDPR, CCPA).
 
 4. Data Sharing
@@ -58,7 +59,9 @@ Depending on your location, you may have the right to:
 - Object to processing or withdraw consent
 - Request data portability
 - File a complaint with your local data protection authority
+
 EEA users: GDPR rights apply (Articles 15–21)
+
 California residents: Rights under the CCPA include right to know, delete, and opt-out of data sale
 
 10. Push Notifications
